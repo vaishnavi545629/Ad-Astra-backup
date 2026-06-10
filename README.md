@@ -48,3 +48,9 @@ Please be advised that while the source code is licensed under the MIT License, 
 
 - [Unity 2022.3.7f](https://unity.com/)
 - [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.10/manual/index.html)
+
+## Team Members
+This project was developed by:
+* **Vaishnavi Kidav**
+* **P. Sagar**
+* **Jagdish Shukla**
